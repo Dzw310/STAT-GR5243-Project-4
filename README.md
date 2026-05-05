@@ -26,7 +26,7 @@ The dataset also includes 27.6 million rejected applications (9 columns) used fo
 ├── 01_data_loading_cleaning.ipynb     # Data loading, target filtering, column cleanup, missing values
 ├── 02_eda_unsupervised.ipynb          # EDA, visualizations, PCA, K-Means, t-SNE
 ├── 03_feature_engineering.ipynb       # Ratio features, log transforms, encoding, scaling
-├── 04_modeling_merged.ipynb           # Model training, calibration, threshold optimization, SHAP
+├── 04_modeling.ipynb                  # Model training, calibration, threshold optimization, SHAP
 ├── app/                               # Interactive web application
 │   ├── app.py                         # Python Shiny app (single file)
 │   ├── requirements.txt               # App dependencies for deployment
@@ -42,7 +42,7 @@ The dataset also includes 27.6 million rejected applications (9 columns) used fo
 │   ├── cleaned.parquet
 │   ├── engineered.parquet
 │   └── temporal_split_index.parquet
-├── Project 4.pdf                      # Assignment specification
+├── Project 4.pdf                      
 └── README.md
 ```
 
