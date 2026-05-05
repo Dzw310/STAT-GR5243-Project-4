@@ -213,9 +213,9 @@ The app will be available at `http://localhost:8000`.
 
 | Member | Contribution |
 |--------|-------------|
-| Zhewei Deng | Data cleaning, feature engineering, modeling pipeline, XGBoost, gradient boosting |
-| | Neural network implementation and tuning |
-| | Random Forest modeling |
-| | EDA and unsupervised learning |
+| Zhewei Deng (zd2372) | Data cleaning, feature engineering, interactive web app development and deployment, project report |
+| Lucas Meadows (lm3774) | XGBoost implementation and tuning |
+| Cecilia Zang (cz2957) | PyTorch MLP and tuning with BatchNorm, Dropout, early stopping |
+| Carrie Yan Yin Feng (cf3084) | Random Forest modeling and hyperparameter tuning |
 
-> *Update this table with actual team member names and contributions before submission.*
+All team members are equally contributed in this project.
